@@ -1,6 +1,6 @@
 .albumInfo-card {
-    margin-top: 20px;
-    width: 80%;
+  margin-top: 20px;
+  width: 80%;
   }
   
   .albumInfo-card p {
@@ -33,7 +33,7 @@
   
   .album-info {
     font-size: 14px;
-    font-weight: 500;
+    font-weight: 400;
     color: #9aa9c2;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -47,5 +47,5 @@
     font-size: 12px;
     font-weight: 400;
     color: #9aa9c2;
-    margin-top: 10px;
+    margin-top: 5px;
   }
