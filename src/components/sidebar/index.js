@@ -14,17 +14,14 @@ export default function Sidebar() {
   );
 
   useEffect(() => {
-    apiClient.get("me")
-      .then((response) => {
-        if (response.data.images && response.data.images.length > 0) {
-          setImage(response.data.images[0].url);
-        } else {
-          console.warn("No profile image found for user.");
-        }
-      })
-      .catch((error) => {
-        console.error("Error fetching user data:", error);
-      });
+    apiClient.get("me").then((response) => {
+      const images = response.data.images;
+      if (images && images.length > 0) {
+        setImage(images[0].url);
+      }
+    }).catch(error => {
+      console.error("Error fetching user profile:", error);
+    });
   }, []);
 
   return (
