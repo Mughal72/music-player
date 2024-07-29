@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import React, { useState, useRef, useEffect } from "react";
 import "./audioPlayer.css";
 import Controls from "./controls";
@@ -105,7 +106,7 @@ export default function AudioPLayer({
           percentage={currentPercentage}
           isPlaying={true}
           image={currentTrack?.album?.images[0]?.url}
-          size={300}
+          size={270}
           color="#C96850"
         />
       </div>

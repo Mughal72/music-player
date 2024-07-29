@@ -8,11 +8,11 @@
   background-image: repeating-radial-gradient(
       circle at center left,
       transparent 0,
-      #1e2a3e 100px
+      #233656 100px
     ),
-    repeating-linear-gradient(#23365655, #233656);
+    repeating-linear-gradient(#1e2a3e55, #1e2a3e);
 }
 
-.flex{
+.flex {
   display: flex;
 }
