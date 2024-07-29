@@ -1,6 +1,7 @@
 import React, { useState, useRef, useEffect } from "react";
 import "./audioPlayer.css";
 import Controls from "./controls";
+
 import WaveAnimation from "./waveAnimation";
 import ProgressCircle from "./ProgressCircle";
 
