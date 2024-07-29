@@ -25,6 +25,16 @@ If you are interested in building your own custom audio player, I highly recomme
 
 Thank you for taking the time to read about my experience with the React.js Audio Player Series. I hope it inspires you to create your own music!
 
+## screenshots
+![image](https://github.com/user-attachments/assets/f6a487f5-a365-44ba-abf3-c5cebc1a9113)  
+
+![image](https://github.com/user-attachments/assets/b1c1ba76-ee82-4012-8821-263e18885407)
+
+![image](https://github.com/user-attachments/assets/169c6257-e295-45ea-a6e0-4d47f635cc66)
+
+
+
+
 
 
 
