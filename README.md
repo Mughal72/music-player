@@ -1,4 +1,4 @@
- # My Musical Journey with the [React.js](https://www.blackbox.ai/?q=React.js) Audio Player Series
+ # My Musical Journey with the Music Player in React.js
 Hello there! I am excited to share with you my experience of creating music using the React.js Audio Player Series. This series, consisting of 10 videos, provides a comprehensive guide to building a custom audio player using React.js. I followed this series and created my own music, and I am thrilled to share my skills and the final product with you.
 
 # Discovering the Series
